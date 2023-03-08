@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+##RC-Part-Picker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a mock app where a user can search for parts from a certain manufacturer and have them linked to that specific manufacturers page. They can also browse from every model of vehicle from that specific manufacturer. This app uses the technologies puppeteer and React
 
 ## Available Scripts
 
