@@ -1,4 +1,4 @@
-##RC-Part-Picker
+## RC-Part-Picker
 
 This is a mock app where a user can search for parts from a certain manufacturer and have them linked to that specific manufacturers page. They can also browse from every model of vehicle from that specific manufacturer. This app uses the technologies puppeteer and React
 
